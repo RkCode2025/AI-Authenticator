@@ -38,4 +38,4 @@ def evaluate_model(weight_path):
 
 if __name__ == "__main__":
     # Ensure this filename matches your saved checkpoint
-    evaluate_model("model_epoch_5.pth")
+    evaluate_model("model_epoch_10.pth")
