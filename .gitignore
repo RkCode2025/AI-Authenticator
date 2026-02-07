@@ -1,0 +1,46 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments and Virtual Envs
+.venv/
+venv/
+env/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.installed.cfg
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Model Weights and Checkpoints (Large Files)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.weights
+
+# Generated Forensic Reports (PDFs)
+Forensic_Report_*.pdf
+*.pdf
+
+# Dataset and Local Downloads
+data/
+datasets/
+.huggingface/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
