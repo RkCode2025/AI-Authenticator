@@ -1,0 +1,7 @@
+torch
+torchvision
+gradio
+fpdf
+datasets
+tqdm
+Pillow
